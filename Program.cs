@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace BookCollection
 {
@@ -30,6 +31,7 @@ namespace BookCollection
             collection.AddBook(book2);
             collection.AddBook(book3);
             collection.GetBook(1);
+            collection.RemoveBook(1);
             collection.PrintAllBooks();
         }
     }
