@@ -1,0 +1,13 @@
+C:\Users\Owner\workspace\BookCollection\bin\Debug\netcoreapp3.1\BookCollection.exe
+C:\Users\Owner\workspace\BookCollection\bin\Debug\netcoreapp3.1\BookCollection.deps.json
+C:\Users\Owner\workspace\BookCollection\bin\Debug\netcoreapp3.1\BookCollection.runtimeconfig.json
+C:\Users\Owner\workspace\BookCollection\bin\Debug\netcoreapp3.1\BookCollection.runtimeconfig.dev.json
+C:\Users\Owner\workspace\BookCollection\bin\Debug\netcoreapp3.1\BookCollection.dll
+C:\Users\Owner\workspace\BookCollection\bin\Debug\netcoreapp3.1\BookCollection.pdb
+C:\Users\Owner\workspace\BookCollection\obj\Debug\netcoreapp3.1\BookCollection.csprojAssemblyReference.cache
+C:\Users\Owner\workspace\BookCollection\obj\Debug\netcoreapp3.1\BookCollection.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\BookCollection\obj\Debug\netcoreapp3.1\BookCollection.AssemblyInfo.cs
+C:\Users\Owner\workspace\BookCollection\obj\Debug\netcoreapp3.1\BookCollection.csproj.CoreCompileInputs.cache
+C:\Users\Owner\workspace\BookCollection\obj\Debug\netcoreapp3.1\BookCollection.dll
+C:\Users\Owner\workspace\BookCollection\obj\Debug\netcoreapp3.1\BookCollection.pdb
+C:\Users\Owner\workspace\BookCollection\obj\Debug\netcoreapp3.1\BookCollection.genruntimeconfig.cache
